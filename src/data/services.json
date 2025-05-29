@@ -1,0 +1,34 @@
+[
+  {
+    "id": "tarot-reading",
+    "title": "Tarot Reading",
+    "description": "Unlock the mysteries of your future with personalized tarot card readings",
+    "price": "From $75",
+    "duration": "60 min",
+    "icon": "Star"
+  },
+  {
+    "id": "palm-reading",
+    "title": "Palm Reading",
+    "description": "Discover your life path through the ancient art of palmistry",
+    "price": "From $50",
+    "duration": "45 min",
+    "icon": "Sun"
+  },
+  {
+    "id": "spiritual-cleansing",
+    "title": "Spiritual Cleansing",
+    "description": "Remove negative energy and restore balance to your spirit",
+    "price": "From $100",
+    "duration": "90 min",
+    "icon": "Sparkles"
+  },
+  {
+    "id": "crystal-healing",
+    "title": "Crystal Healing",
+    "description": "Harness the power of crystals to heal mind, body, and soul",
+    "price": "From $80",
+    "duration": "75 min",
+    "icon": "Moon"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sarah-m",
+    "name": "Sarah M.",
+    "text": "Ritika's reading was incredibly accurate and gave me the clarity I needed during a difficult time.",
+    "rating": 5,
+    "service": "Tarot Reading"
+  },
+  {
+    "id": "michael-r",
+    "name": "Michael R.",
+    "text": "The spiritual cleansing session was transformative. I felt renewed and at peace.",
+    "rating": 5,
+    "service": "Spiritual Cleansing"
+  },
+  {
+    "id": "emma-l",
+    "name": "Emma L.",
+    "text": "Her intuitive abilities are remarkable. Every prediction has come true so far!",
+    "rating": 5,
+    "service": "Tarot Reading"
+  },
+  {
+    "id": "priya-k",
+    "name": "Priya K.",
+    "text": "The Numerology course opened my eyes to patterns I never noticed. Highly recommended!",
+    "rating": 5,
+    "service": "Numerology Course"
+  },
+  {
+    "id": "james-w",
+    "name": "James W.",
+    "text": "Learning palmistry from Ritika was amazing. She breaks down complex concepts beautifully.",
+    "rating": 5,
+    "service": "Palmistry Course"
+  }
+]

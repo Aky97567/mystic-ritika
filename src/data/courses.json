@@ -1,0 +1,46 @@
+[
+  {
+    "id": "numerology-mastery",
+    "title": "Numerology Mastery",
+    "description": "Learn the ancient science of numbers and unlock the secrets hidden in dates, names, and life patterns",
+    "price": "₹2,500",
+    "duration": "4 weeks",
+    "sessions": "8 sessions",
+    "currency": "INR",
+    "format": "Live on Zoom",
+    "curriculum": [
+      "Introduction to Numerology & Life Path Numbers",
+      "Name Analysis & Expression Numbers",
+      "Birth Date Calculations & Soul Urge Numbers",
+      "Master Numbers & Their Significance",
+      "Compatibility Analysis Through Numbers",
+      "Career Guidance Using Numerology",
+      "Annual Forecasting Techniques",
+      "Advanced Numerological Systems"
+    ]
+  },
+  {
+    "id": "palmistry-foundations", 
+    "title": "Palmistry Foundations",
+    "description": "Master the art of palm reading through comprehensive online training with live practice sessions",
+    "price": "₹3,000",
+    "duration": "6 weeks",
+    "sessions": "12 sessions",
+    "currency": "INR",
+    "format": "Live on Zoom",
+    "curriculum": [
+      "Hand Shapes & Their Meanings",
+      "Major Lines: Life, Head, Heart",
+      "Minor Lines & Special Markings",
+      "Mount Analysis & Finger Reading",
+      "Timing Events on the Palm",
+      "Health Indicators in Palmistry",
+      "Love & Relationship Lines",
+      "Career & Success Markers",
+      "Advanced Palm Reading Techniques",
+      "Ethics & Client Consultation Skills",
+      "Practice Sessions with Real Cases",
+      "Building Your Palmistry Practice"
+    ]
+  }
+]
